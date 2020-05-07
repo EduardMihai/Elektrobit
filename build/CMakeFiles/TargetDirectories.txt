@@ -1,0 +1,3 @@
+/home/eduard/Elektrobit/TaskElektrobit/Elektrobit/build/CMakeFiles/edit_cache.dir
+/home/eduard/Elektrobit/TaskElektrobit/Elektrobit/build/CMakeFiles/rebuild_cache.dir
+/home/eduard/Elektrobit/TaskElektrobit/Elektrobit/build/CMakeFiles/Elektrobit.dir
