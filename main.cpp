@@ -4,10 +4,10 @@
 
 int main()
 {
-    helloShared helloShared;
-    helloStatic helloStatic;
+      //helloShared helloShared;
+    //helloStatic helloStatic;
 
     std::cout<<"SHARED Library test: /n";
-    helloShared.helloWorldShared();
+    //helloShared.helloWorldShared();
 
 }

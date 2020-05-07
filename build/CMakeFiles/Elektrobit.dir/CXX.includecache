@@ -6,7 +6,19 @@
 
 #IncludeRegexTransform: 
 
+/home/eduard/Elektrobit/TaskElektrobit/Elektrobit/helloShared.h
+iostream
+-
+
+/home/eduard/Elektrobit/TaskElektrobit/Elektrobit/helloStatic.h
+iostream
+-
+
 /home/eduard/Elektrobit/TaskElektrobit/Elektrobit/main.cpp
 iostream
 -
+helloStatic.h
+/home/eduard/Elektrobit/TaskElektrobit/Elektrobit/helloStatic.h
+helloShared.h
+/home/eduard/Elektrobit/TaskElektrobit/Elektrobit/helloShared.h
 
